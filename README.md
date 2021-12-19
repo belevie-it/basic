@@ -1,1 +1,1 @@
-# npm i express ejs mongoose
+npm i express ejs mongoose
