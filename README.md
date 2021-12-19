@@ -1,1 +1,1 @@
-# basic
+# npm i express ejs mongoose
